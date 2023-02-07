@@ -1,0 +1,1 @@
+A three section website built during web development training at Etiwa Tech under T Max training.
